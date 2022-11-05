@@ -20,19 +20,19 @@ Descarga el repositorio
 
 Instala las librerias requeridas
 
-'' npm i ''
+``` npm i ```
 
-Crea una base de datos llamada ecommerce en sql
+Crea una base de datos llamada ecommerce en SQL
 
-CREATE DATABASE ecommerce;
+``` CREATE DATABASE ecommerce; ```
 
 En la terminal usa el siguiente comando para crear las tablas
 
-npm run create-tables
+``` npm run create-tables ```
 
 Puedes poblar las tablas con el siguiente comando
 
-npm run seed
+``` npm run seed ```
   
   ## Usage
   
@@ -41,7 +41,7 @@ Seguir instrucciones de instalación.
 
 Comienza el servidor
 
-nodemon server.js
+``` nodemon server.js ```
 
 Sigue la liga
 
